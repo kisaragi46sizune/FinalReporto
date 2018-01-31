@@ -1,7 +1,7 @@
 # FlyFlyFly
 最終課題
 
-<img src= "./web-gl./image45.PNG">
+! [image45.PNG](web-gl)
 
 ## 操作説明
 

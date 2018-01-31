@@ -11,4 +11,4 @@
 
 ・右から流れてくるブロックをよけるゲームです
 
-[ゲームを遊ぶ](./web-gl/index.html)
+[ゲームを遊ぶ](https://kisaragi46sizune.github.io/FinalReporto/web-gl/)

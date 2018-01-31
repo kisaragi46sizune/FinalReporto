@@ -1,5 +1,7 @@
-# FinalReporto
+# FlyFlyFly
 最終課題
+
+<img src="./image45.png">
 
 ## 操作説明
 
@@ -8,3 +10,5 @@
 ## 作品紹介
 
 ・右から流れてくるブロックをよけるゲームです
+
+[ゲームを遊ぶ](./web-gl/index.html)
